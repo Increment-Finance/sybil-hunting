@@ -1,5 +1,5 @@
 ---
-name: Sybil Hunting
+name: Sybil Bounty
 about: Report sybil addresses on the Increment protocol
 title: ''
 labels: ''
