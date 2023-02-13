@@ -1,7 +1,7 @@
 ---
 name: Sybil Bounty
 about: Report sybil addresses on the Increment protocol
-title: ''
+title: Sybil Bounty Report
 labels: ''
 assignees: ''
 
