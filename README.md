@@ -4,6 +4,8 @@ It is no secret that there are bots and illegitimate users that try to sybil att
 
 In order to distribute INCR to as many legitimate users as possible within the Increment community and mitigate this kind of attack towards our protocol governance, it will be necessary to call on the community for help in finding and reporting any potential cases of sybil attacks in the current list of eligible addresses in this bounty hunting event.
 
+# How to Participate
+
 This repository will be used for submitting and reviewing community bounty reports. We will use [Arkham](https://platform.arkhamintelligence.com/) as the third party provider to check if the submitted sybil bounty report is valid.
 
 To submit your community bounty report, please follow these steps:
@@ -15,7 +17,7 @@ To submit your community bounty report, please follow these steps:
 
 - Reports must contain at least 5 addresses still in the [full address list](https://docs.google.com/spreadsheets/d/1Y1ax3pePYNKpU4L9WbZOcv3QGbz6LlRdzE-AkkaeAeM/edit#gid=1556209484&range=A1) at the time of review
 - [Arkham](https://platform.arkhamintelligence.com/) will be used as the third party provider to check if the submitted sybil bounty report is valid. Method for checking validity will be shared transparently.
-- Successful bounty reports will eliminate all valid addresses in the bounty report from the token distribution, except for one address which will still receive token distribution (Sybil resistance is important, but allowing users to participate in Increment governance is equally important). Tokens received from eliminated addresses will be redistributed evenly to all other eligible addresses.
+- Successful bounty reports will eliminate all valid addresses in the bounty report from the token distribution, except for one address which will still receive token distribution (Sybil resistance is important, but allowing users to participate in Increment governance is equally important). Tokens that were going to be distributed to eliminated addresses will be redistributed evenly to all other eligible addresses.
 - Unsuccessful bounty reports will not eliminate any addresses.
 
 # Address List
