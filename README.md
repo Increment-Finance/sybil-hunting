@@ -1,5 +1,7 @@
 # Community Bounty: Token Distribution I Sybil Hunting
 
+SUBMISSION DEADLINE HAS PASSED. EVENT HAS ENDED.
+
 It is no secret that there are bots and illegitimate users who try to use multiple addresses and accounts to sybil attack a protocol’s governance system. If they succeed, Increment’s protocol governance and community will be at risk of centralization.
 
 In order to distribute INCR to as many legitimate users as possible within the Increment community and mitigate this kind of attack towards our protocol governance, it will be necessary to call on the community for help in finding and reporting any potential cases of sybil attacks in the current list of eligible addresses in this bounty hunting event. 
